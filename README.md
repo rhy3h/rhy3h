@@ -56,3 +56,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rhy3h&show_icons=true&locale=en&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" alt="rhy3h" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@rhy3h&title_color=fff&text_color=9f9f9f&bg_color=151515&langs_count=3" alt="rhy3h" /></p>
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rhy3h)
